@@ -4,7 +4,7 @@
     <groupId>com.github.anoobizzz</groupId>
     <artifactId>youget</artifactId>
     <packaging>jar</packaging>
-    <version>0.1</version>
+    <version>0.2</version>
     <name>youGet</name>
     <description>youGet - java library for downloading from youtube</description>
     <url>https://github.com/anoobizzz/youGet</url>
